@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /* overflow-x: hidden; */
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  width: 100vw;
+}
+
+.transition-colors {
+  transition-property: background-color;
+  transition-duration: 0.4s;
+}
+
+.colored-logo {
+  filter: brightness(80%) saturate(100%) hue-rotate(200deg);
+}
+
+.footer-logo {
+  filter: invert(1);
+}
+
+.blogcard:hover{
+  border: 2px solid #4a54f5;
+}
+
+.bottom-footer-background {
+  background-color: rgba(255, 255, 255, 0.2);
+}

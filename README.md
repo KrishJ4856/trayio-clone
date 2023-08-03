@@ -1,8 +1,9 @@
-# React + Vite
+# Introdution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a clone of the [tray.io website](https://tray.io/). I built this using ReactJS, TailwindCSS and [Flowbite Components](https://flowbite.com/).
 
-Currently, two official plugins are available:
+#### Original Website: [https://tray.io/](https://tray.io/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### My Clone: [https://trayio-clone.vercel.app/](https://trayio-clone.vercel.app/)
+
+(Will be soon adding animations after learning Framer Motion)
